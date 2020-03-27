@@ -1,0 +1,17 @@
+
+H
+java:S1172"+Remove this unused method parameter "name".(Ì¶Ğ¤8öö‰’.
+a
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ô‡ß­8‚şÕ„.
+R
+java:S2039"5Explicitly declare the visibility for "restTemplate".(ùÖŒº8ù¨Ò„.
+Z
+java:S4288"=Remove this annotation and use constructor injection instead.(êæÄŞ8ù¨Ò„.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ì¶Ğ¤8ù¨Ò„.
+Ø
+java:S4605"µ'HelloService' is not reachable by @ComponentsScan or @SpringBootApplication. Either move it to a package configured in @ComponentsScan or update your @ComponentsScan configuration.(âŞ©Àûÿÿÿÿ8Éã«Œ.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(âŞ©Àûÿÿÿÿ
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ùÖŒº8ù¨Ò„.

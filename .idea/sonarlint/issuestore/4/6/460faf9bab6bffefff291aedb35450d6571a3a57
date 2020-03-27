@@ -1,0 +1,13 @@
+
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘8šÒâË.
+^
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(´ˆşÚ8šÒâË.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘8šÒâË.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(õîĞùÿÿÿÿ8šÒâË.
+c
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢F8›šƒ.
+
+java:S4603"Consider replacing "@SpringBootApplication" by a list of beans imported with @Import to speed-up the start-up of the application.(ûª¢F8›šƒ.

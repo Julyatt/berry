@@ -1,0 +1,23 @@
+
+U
+java:S1213"8Move this variable to comply with Java Code Conventions.(ş”‘°8ˆ¯³ƒ.
+
+java:S4603"Consider replacing "@SpringBootApplication" by a list of beans imported with @Import to speed-up the start-up of the application.(ûª¢F8ˆ¯³ƒ.
+c
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢F8ˆ¯³ƒ.
+`
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(™Ÿ×¡ıÿÿÿÿ8ƒÿ³ƒ.
+a
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(€Ñ‰É8ˆ¯³ƒ.
+a
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(Çµí‘8ŠÃû‚.
+c
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ü°ƒØüÿÿÿÿ8ˆ¯³ƒ.
+f
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(·ıØçøÿÿÿÿ8ˆ¯³ƒ.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(İ‚·8ˆ¯³ƒ.
+J
+java:S2039"-Explicitly declare the visibility for "port".(ş”‘°8ˆ¯³ƒ.
+^
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘8ˆ¯³ƒ.

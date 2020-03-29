@@ -2,6 +2,7 @@ package com.guosh.servicefeign.controller;
 
 import com.guosh.servicefeign.feign.SchehualServiceHi;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -17,6 +18,7 @@ public class HiController {
     @Autowired
     SchehualServiceHi schehualServiceHi;
 
+    @GetMapping(value = "/hi")
     public String sayHi(@RequestParam String name) {
         return schehualServiceHi.sayHiFromClientOne(name);
     }
